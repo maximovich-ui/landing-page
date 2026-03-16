@@ -1,5 +1,8 @@
 # Landing Page
 
+Live Demo:
+https://cool-marshmallow-251ea1.netlify.app
+
 Frontend landing page prototype.
 
 This project demonstrates a simple landing page interface built with basic web technologies.
