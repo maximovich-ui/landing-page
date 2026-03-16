@@ -1,4 +1,4 @@
-# Landing Page
+# Landing Page UI
 
 Live Demo:
 https://cool-marshmallow-251ea1.netlify.app
